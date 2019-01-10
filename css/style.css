@@ -1,0 +1,25 @@
+body{
+    background-color: #E8E8E8;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: #000;
+}
+.zijde{
+    font-weight: bold;
+}
+
+.pixels{
+    margin-left: 20px;
+}
+.submit{
+    background-color: #66A7BD;
+    color: #FFF;
+    border-color: #1D7491;
+    border-radius: 4px;
+    height: 30px;
+    padding: 0 10px;
+}
+#driehoek{
+    margin-left: 100px;
+    
+}
